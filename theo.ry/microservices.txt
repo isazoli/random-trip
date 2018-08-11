@@ -1,0 +1,11 @@
+Characteristics of MSs
+	Component -> independently replaceable, updateable
+	Organize around business capabilities
+	Decentralization
+		Data management
+	Infrastructure automation
+	Design for failure
+		Chaos Monkey (NetFlix)
+	Find the right boundaries
+	
+	

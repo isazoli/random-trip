@@ -1,0 +1,18 @@
+4. Primitive types
+	Primitive types always stored on the stack
+	https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+	https://crunchify.com/java-tip-wherever-possible-try-to-use-primitive-types-instead-of-wrapper-classes/
+	Random
+		ThreadLocalRandom, SecureRandom
+		longs(), ints() -> !!!Streams!!!
+	Bitwise operations
+		x & (x - 1) => clears the lowermost set bit
+		x &~(x - 1) => extracts the lowermost set bit
+		masking
+	4.1 ***Done***
+5. Arrays
+	Retrieve/update 	O(1)
+	Delete/insert  		O(n - i)
+		(to the i-th position, you need to move the successor elements)
+	5.1 Dutch flag problem
+			Quicksort: (1) pick a pivot (2) put the =< elements before (3) put > elements after (4) repeat for the two group 

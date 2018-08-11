@@ -1,0 +1,21 @@
+
+
+Theory
+	Scala
+		Functional programming "red book" #book
+	
+	Java
+		General book
+			JVM
+			Memory model
+			Classloader
+				https://www.javaworld.com/article/2077260/learn-java/learn-java-the-basics-of-java-class-loaders.html
+	Microservices
+		Martin Fowler intro #video
+	Akka
+		Akka illustrated #book
+
+Practice
+	Algori
+	
+CV upgrade

@@ -1,0 +1,11 @@
+SOLID
+	Single-responsibility
+	Open-closed
+		open for extension, closed for modification
+	Liskov substitution (LSP)
+		Every subclass should be substitutable for their parent.
+	Interface segregation
+		Favor many smaller, client-specific IFes
+	Dependency inversion
+		 Entities should depend only on abstractions but not on concretions. 
+		 According to it, the high-level module must never rely on any low-level module but should depend on abstractions.

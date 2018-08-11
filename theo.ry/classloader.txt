@@ -1,0 +1,11 @@
+https://www.javaworld.com/article/2077260/learn-java/learn-java-the-basics-of-java-class-loaders.html
+resolve: classname => Class
+JVM's embedded CL -> primordial CL
+	check classpath, ZIP
+SimpleClassLoader implementation #code
+	check class in primordial CL -> .findSystemClass(name)
+	defineClass -> verify class validity
+	resolveClass
+		loads referenced classes
+		bytecode legitimacy check
+Multiple CLs can exist

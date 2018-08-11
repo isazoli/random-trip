@@ -1,0 +1,13 @@
+https://github.com/Jarlakxen/Scala-Interview-Questions
+https://www.journaldev.com/8958/scala-interview-questions-answers#scala-interview-questions
+	Any, AnyVal, AnyRef => https://stackoverflow.com/questions/2335319/what-are-the-relationships-between-any-anyval-anyref-object-and-how-do-they-m
+	Nothing
+		In Scala, Nothing is a Type (final class). 
+		It is defined at the bottom of the Scala Type System that means it is a subtype of anything in Scala.
+		There are no instances of Nothing.
+	Nil is an object, which is used to represent an empty list.
+	Method vs. Function
+		https://dzone.com/articles/revealing-scala-magician%E2%80%99s
+		ETA expansion
+	Arity 0, Infix, Postfix
+		https://docs.scala-lang.org/style/method-invocation.html
