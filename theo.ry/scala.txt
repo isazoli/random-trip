@@ -11,3 +11,8 @@ https://www.journaldev.com/8958/scala-interview-questions-answers#scala-intervie
 		ETA expansion
 	Arity 0, Infix, Postfix
 		https://docs.scala-lang.org/style/method-invocation.html
+https://www.journaldev.com/9663/scala-interview-questions
+	Primary and Auxiliary (def this) constructors
+	ArrayBuffer
+	
+    
