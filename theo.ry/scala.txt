@@ -14,5 +14,9 @@ https://www.journaldev.com/8958/scala-interview-questions-answers#scala-intervie
 https://www.journaldev.com/9663/scala-interview-questions
 	Primary and Auxiliary (def this) constructors
 	ArrayBuffer
-	
+
+Futures
+	https://docs.scala-lang.org/overviews/core/futures.html
+	A placeholder object for a value that may not yet exist
+	The scala.concurrent package comes out of the box with an ExecutionContext implementation, a global static thread pool.
     
